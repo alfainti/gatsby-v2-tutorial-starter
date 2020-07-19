@@ -27,6 +27,7 @@ const Footer = () => (
       <span>
         Review template -{' '}
         <a href="http://trolipedia.com">Trolipedia</a>
+        <a href="https://www.daftarpromo.com">harga terbaru</a>
       </span>
     </Text>
   </Wrapper>
