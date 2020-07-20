@@ -1,7 +1,7 @@
 ---
 path: "/Seo-Friendly-Blogger-Template"
 cover: "./blocks.jpg"
-date: "2020-07-15"
+date: "2020-07-16"
 title: "Seo Friendly Blogger Template"
 published: true
 tags: ['website', 'seo friendly', 'Blogger template']
