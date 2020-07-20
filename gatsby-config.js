@@ -60,12 +60,6 @@ module.exports = {
         icon: config.favicon,
       },
     },
-    {
-    resolve: 'gatsby-plugin-netlify-admin',
-    options: {
-        adminPath: `${__dirname}/src/admin`
-     },
-    },
     'gatsby-plugin-offline',
   ],
 };
